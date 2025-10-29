@@ -5,7 +5,7 @@ body {
     color: white;
 }
 
-.cta {
+a {
     color: Aquamarine;
     font-size: 16px;
 }
@@ -25,6 +25,10 @@ p {
     font-size: 21px;
 }
 
-.footer {
+img {
+    padding-top: 1rem;
+}
+
+.copyright{
     text-align: right;
-} 
+}
