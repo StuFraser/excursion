@@ -1,13 +1,30 @@
-<!doctype html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport"
-          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Excursion</title>
-    <link rel="stylesheet" href="css/style.css">
-</head>
-<body>
-    <h1>Discover hidden places in the world around you</h1>
-</body>
+body {
+    font-family: Verdana, sans-serif;
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+.cta {
+    color: Aquamarine;
+    font-size: 16px;
+}
+
+h1 {
+    font-size: 50px;
+    font-weight: normal;
+}
+
+h2 {
+    font-size: 42px;
+    font-weight: 300;
+}
+
+p {
+    color: Gray;
+    font-size: 21px;
+}
+
+.footer {
+    text-align: right;
+} 
